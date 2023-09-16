@@ -24,9 +24,6 @@ function App() {
       street: "old Colony Street",
       pinCode: 15,
       test: [123, "Test"],
-
-
-      
     },
   };
 
