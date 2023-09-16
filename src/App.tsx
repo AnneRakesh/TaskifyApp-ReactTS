@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="App">
-      <span className="heading"> Task Entry</span>
+      <span className="heading"> Taskify App</span>
       <InputField todo={todo} setTodo={setTodo} handleAdd={handleAdd} />
       <TodoList todos={todos} setTodos={setTodos}/>
     </div>
